@@ -1,0 +1,7 @@
+xiaoyi.elasticsearch:
+  host: ${xiaoyi.elasticsearch.host}
+  port: ${xiaoyi.elasticsearch.port}
+  clusterName: ${xiaoyi.elasticsearch.clusterName}
+
+
+
