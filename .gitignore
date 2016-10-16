@@ -6,5 +6,6 @@
 *.log
 *.iml
 .idea
+out/
 
 .factorypath
