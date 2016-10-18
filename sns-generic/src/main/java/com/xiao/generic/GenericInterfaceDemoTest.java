@@ -2,6 +2,7 @@ package com.xiao.generic;
 
 /**
  * Created by Administrator on 2016/10/16.
+ * 参考 ： http://blog.csdn.net/regcy/article/details/5043680
  */
 
 class GenericInterfaceDemoImpl<T> implements GenericInterfaceDemo<T>{
